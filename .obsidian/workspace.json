@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ae486007edb55dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7818350f99295666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa01009b634d0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7efe885a291d4ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burp Suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65e582f68219cf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7a4ed974f89671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa39b855a493f9a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8e53b73033bb4a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f6a581c7a3585a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e18cc9755c0de2ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d568bfb70d8d156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5614a31b0609b98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Burp Suite.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0753074a1d960a87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Burp Suite.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "327df64deb80c914",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "194725f3a5b33edb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Burp Suite.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7efe885a291d4ba5",
+  "lastOpenFiles": [
+    "Concepts.md",
+    "Ethical Hacking.md",
+    "Sql Injection.md",
+    "Softwares.md",
+    "Burp Suite.md",
+    "__Keys__.md",
+    "Welcome.md"
+  ]
+}
