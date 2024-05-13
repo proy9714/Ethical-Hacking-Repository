@@ -1,0 +1,2 @@
+- 📺 [Nmap - HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx)
+	- Comprehensive playlist on Nmap.

@@ -1,0 +1,2 @@
+- ##### 📺 [Metasploit (HackerSploit)](https://www.youtube.com/playlist?list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm)
+   - Comprehensive course!
