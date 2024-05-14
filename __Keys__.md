@@ -12,3 +12,4 @@
 | 🔬    | Research/ Paper                |
 | 💻    | Code                           |
 | 👶    | Getting started                |
+| 🌐    | External Link                  |

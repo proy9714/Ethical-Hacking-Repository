@@ -1,0 +1,3 @@
+- ##### 📺 [TryHackMe Walkthroughs](https://www.youtube.com/playlist?list=PLrTDbBs5YRrEhmkUXf12qNL_m1MNAcCDM)
+   - Great videos from this playlist.
+   - Complete walkthroughs of multiple tryhackme rooms with explanations.
