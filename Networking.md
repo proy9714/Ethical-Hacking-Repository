@@ -8,8 +8,6 @@
 - 📺 [IP Addressing and Subnetting (David Bombal)](https://courses.davidbombal.com/courses/287806/lectures/23833134)
 	- Practical Labs on IP and Subnetting. Free course!
 <br>
-## SSL
-- 📺 [How Secure Shell Works (SSH) - Computerphile](https://www.youtube.com/watch?v=ORcvSkgdA58)
-	- Succinct explanation of the need for and methodology used in SSH.
+- ## [[Secure Sockets Layer (SSL)]]
 <br>
-## [[Transport Layer Security (TLS)]]
+- ## [[Transport Layer Security (TLS)]]

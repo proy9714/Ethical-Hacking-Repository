@@ -1,1 +1,2 @@
-- ### 🔗 [[Sql Injection]]
+- ### 🔗 [[SQL Injection]]
+- ### 🔗 [[XSS]]
