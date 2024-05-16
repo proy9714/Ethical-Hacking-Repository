@@ -4,179 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7818350f99295666",
+        "id": "9d44f0d08d18716f",
         "type": "tabs",
         "children": [
           {
-            "id": "daa01009b634d0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwares and Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7efe885a291d4ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwares and Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dbcadac8e3eada9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "342dffc393adf228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "747ab3c70c5a4441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwares and Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa1f151cb6bdad30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848a5d09add7582b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metasploit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd1e6e48ac88a695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d86f6554829c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Websites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff715ed95cea5b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fb7d43327d2b9cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ae906033a3c294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd8a9088bc35bcb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Websites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37b428e9d23b3b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "599e61af3aba49cb",
+            "id": "0810219f3900d3db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d2481a925e1b05f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transport Layer Security (TLS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -310,11 +129,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,24 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "599e61af3aba49cb",
+  "active": "0810219f3900d3db",
   "lastOpenFiles": [
-    "Websites.md",
-    "Try Hack Me.md",
-    "Transport Layer Security (TLS).md",
-    "SQL Injection.md",
-    "Softwares and Tools.md",
-    "Secure Sockets Layer (SSL).md",
-    "Networking.md",
-    "Ethical Hacking.md",
-    "Concepts.md",
-    "Burp Suite.md",
     "__Keys__.md",
     "!! Things to learn !!.md",
+    "Burp Suite.md",
+    "Concepts.md",
+    "Ethical Hacking.md",
+    "Json Web Tokens (JWT).md",
+    "Metasploit.md",
+    "Networking.md",
     "Nmap.md",
+    "NoSQL Injection.md",
+    "Secure Sockets Layer (SSL).md",
+    "Softwares and Tools.md",
+    "SQL Injection.md",
+    "Transport Layer Security (TLS).md",
+    "Try Hack Me.md",
+    "Web User Authentication.md",
+    "Untitled.md",
+    "Websites.md",
     "XSS.md",
     "SSL.md",
-    "Metasploit.md",
     "Playlists.md",
     "Meterpreter.md",
     "Welcome.md"

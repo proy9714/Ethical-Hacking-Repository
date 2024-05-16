@@ -1,15 +1,14 @@
 
 | Emoji | Resource Type                  |
 | ----- | ------------------------------ |
-| 📺    | Video                          |
+| 📺    | Video / Playlist               |
 | 📚    | Article                        |
 | 📦    | GitHub Repo                    |
-| 🧠    | Concept                        |
 | 📜    | Official Guide / Documentation |
 | 🗃️   | Stack Overflow                 |
 | 💌    | Personal Project               |
 | 🔗    | Obsidian Internal Link         |
-| 🔬    | Research/ Paper                |
+| 🔬    | Research / Paper               |
 | 💻    | Code                           |
 | 👶    | Getting started                |
 | 🌐    | External Link                  |

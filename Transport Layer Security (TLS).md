@@ -1,8 +1,36 @@
 ## Explain the TLS Handshake
 
 Sure, I can describe the TLS handshake process visually.The TLS handshake is a protocol that occurs at the beginning of a secure communication session over the internet, such as when you access a website using HTTPS. It establishes a secure connection between a client (like a web browser) and a server (like a website's server) to ensure that data exchanged between them is encrypted and secure.
+#### Here's a graphical representation of the TLS handshake process:
+```mermaid
+sequenceDiagram
+   participant Client
+   participant Server
 
-Here's a graphical representation of the TLS handshake process:
+   rect rgba(0, 255, 0, .1)
+   Note left of Client: TLS Handshake
+   end
+
+   Client->>Server: Client Hello
+   Server->>Client: Server Hello
+   Server->>Client: Certificate
+
+   rect rgba(255, 0, 0, .1)
+   Note right of Server: Key Exchange & Authentication
+   Client->>Server: Pre-Master Secret (Encrypted)
+   Note left of Client: Client generates Session Keys
+   Note right of Server: Server generates Session Keys
+   end
+
+   Client->>Server: Change Cipher Spec
+   Client->>Server: Client Finished
+   Server->>Client: Change Cipher Spec
+   Server->>Client: Server Finished
+
+   rect rgba(0, 0, 255, .1)
+   Note over Client,Server: Secure Communication
+   end
+```
 
 1. **Client Hello:**
    - The client (e.g., a web browser) initiates the TLS handshake by sending a "Client Hello" message to the server.
@@ -36,6 +64,7 @@ Here's a graphical representation of the TLS handshake process:
 
 This graphical representation shows the sequential steps involved in a typical TLS handshake. Each step plays a crucial role in establishing a secure and encrypted connection between the client and server, ensuring confidentiality, integrity, and authenticity of the data exchanged during the session.
 
+---
 ## What is a Cipher Suite?
 
 A cipher suite is a set of cryptographic algorithms and protocols used in the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols to establish secure communication channels over the internet. It defines the encryption, authentication, and key exchange mechanisms that determine how data is secured during transmission between a client (such as a web browser) and a server (such as a website's server).
@@ -56,10 +85,16 @@ For example, a commonly used cipher suite might be "TLS_RSA_WITH_AES_256_CBC_SHA
 
 It's important to note that the strength and security of a cipher suite depend on the specific algorithms and key sizes used within it. As cryptographic techniques evolve and vulnerabilities are discovered, newer cipher suites with stronger algorithms and improved security features are introduced to replace older, less secure ones.
 
+---
 ## Links
 
-- 📺 [Transport Layer Security (TLS) - Computerphile](https://www.youtube.com/watch?v=0TLDTodL7Lc)
-	- Beautiful and simple explanation of the need for and the methodology behind TLS.
-<br>
-- 📺 [Transport Handshake Explained - Computerphile](https://www.youtube.com/watch?v=86cQJ0MMses)
-	- The heart of TLS.
+![Transport Layer Security (TLS) - Computerphile](https://www.youtube.com/watch?v=0TLDTodL7Lc)
+
+- Beautiful and simple explanation of the need for and the methodology behind TLS.
+
+---
+![Transport Handshake Explained - Computerphile](https://www.youtube.com/watch?v=86cQJ0MMses)
+
+- The heart of TLS.
+
+---
